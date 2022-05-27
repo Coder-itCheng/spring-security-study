@@ -11,7 +11,7 @@
     <groupId>vip.acheng</groupId>
     <artifactId>springsecurity-study</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springsecurity-study</name>
+    <name>spring-security-study</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
